@@ -1,0 +1,226 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+#area1 {
+    position: sticky;
+    top: 0;
+    background-color: #434344;
+    color: white;
+    text-align: center;
+}
+#navbar ul li {
+    font-size: 14px;
+    padding: 12px 15px 12px 12px;
+    display: inline-block;
+}
+.apple {
+    width: 12px;
+}
+.search {
+    width: 20px;
+}
+.bag {
+    width: 20px;
+}
+#vision{
+    background-image:url(./Images/hero_apple_vision_pro__e8407ehady6i_medium.jpg);
+    background-position: center;
+    text-align: center;
+    padding-top: 350px;
+    padding-bottom: 40px;
+}
+#vision h1{
+    font-size: 25px;
+    font-weight: normal;
+    align-content: center;
+}
+#vision p{
+    font-size: 20px;
+    align-content: center;
+    opacity: 40%;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin: 10px;
+}
+#vision a{
+    align-content: center;
+    font-size: 20px;
+    padding-right: 25px;
+    color: #217bd0;
+    text-decoration: none;
+}
+#area3{
+    text-align: center;
+    color: white;
+    align-items: center;
+    margin-top: 10px;
+}
+#iphone{
+    background-image: url(./Images/hero_iphone15pro__i70z9oz3hj2i_medium.jpg);height: 700px;width: 100%;
+    background-position: center;
+    padding-top: 60px;
+}
+#iphone h1{
+    font-size: 50px;
+}
+#iphone p{
+    font-size: 25px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+#iphone a{
+    display: inline;
+    font-size: 20px;
+    padding-right: 25px;
+    color: #217bd0;
+    text-decoration: none;
+}
+#area4{
+    margin: 10px 10px 10px 10px;
+    height: 550px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+#ultra{
+    background-image: url(./Images/promo_apple_watch_series_9_order__b3u85rm9zf6u_large.jpg);
+    color: white;
+    width: 49.5%;
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px;
+}
+#ultra p{
+    font-size: 22px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+#ultra a{
+    display: inline;
+    font-size: 20px;
+    padding-right: 25px;
+    color: #217bd0;
+    text-decoration: none;
+}
+#ultra2{
+    background-image: url(./Images/promo_apple_watch_ultra2_order__dyxqj5ia98om_large.jpg);
+    color: black;
+    width: 49.5%;
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px;
+}
+#ultra2 p{
+    font-size: 22px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+#ultra2 a{
+    display: inline;
+    font-size: 20px;
+    padding-right: 25px;
+    color: #217bd0;
+    text-decoration: none;
+}
+#area5{
+    margin: 10px 10px 10px 10px;
+    height: 550px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+#fitness{
+    background-image: url(./Images/promo_fitness_alt__ck26n46yeb2a_large.jpg);
+    color:black;
+    width: 49.5%;
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px;
+}
+#fitness p{
+    font-size: 22px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+#fitness a{
+    display: inline;
+    font-size: 20px;
+    padding-right: 25px;
+    color: #217bd0;
+    text-decoration: none;
+}
+#iphone15{
+    background-image: url(./Images/hero_iphone15_announce__uuemlcwczn6u_medium.jpg);
+    width: 49.5%;
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px;
+}
+#iphone15 h1{
+    font-size: 50px;
+    color: black;
+    font-weight: lighter;
+}
+#iphone15 p{
+    font-size: 22px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    color: black;
+}
+#iphone15 a{
+    display: inline;
+    font-size: 20px;
+    padding-right: 25px;
+    color: #217bd0;
+    text-decoration: none;
+}
+#area6{
+    margin: 10px 10px 10px 10px;
+    height: 550px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;   
+}
+#card{
+    background-image: url(./Images/tile__cauwwcyyn9hy_large.jpg);
+    color:black;
+    width: 49.5%;
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px;
+}
+#card p{
+    font-size: 22px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+#card a{
+    display: inline;
+    font-size: 20px;
+    padding-right: 25px;
+    color: #217bd0;
+    text-decoration: none;
+}
+#tradein{
+    background-image: url(./Images/promo_iphone_tradein__bugw15ka691e_large.jpg);
+    color:black;
+    width: 49.5%;
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px;
+}
+#tradein p{
+    font-size: 22px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+#tradein a{
+    display: inline;
+    font-size: 20px;
+    padding-right: 25px;
+    color: #217bd0;
+    text-decoration: none;
+}
